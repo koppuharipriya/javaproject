@@ -4,5 +4,7 @@ public class Sub{
         int b = 32;
         int result =a-b;
         System.out.println("sub of the two numbers" + result);
+        int addition = a+b;
+        System.out.println("addtion of two numbers" + addtion);
     }
 }
