@@ -1,0 +1,8 @@
+public class Sub{
+    public static void main(String []agrs){
+        int a = 23;
+        int b = 32;
+        int result =a-b;
+        System.out.println("sub of the two numbers" + result);
+    }
+}
