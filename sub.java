@@ -9,5 +9,6 @@ public class Sub{
         int multi = a*b;
         System.out.println("multiple of the two numbers" +multi);
         System.out.println("code is completed")
+        System.out.println("up to datae");
     }
 }
