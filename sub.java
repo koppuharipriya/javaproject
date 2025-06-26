@@ -6,5 +6,7 @@ public class Sub{
         System.out.println("sub of the two numbers" + result);
         int addition = a+b;
         System.out.println("addtion of two numbers" + addtion);
+        int multi = a*b;
+        System.out.println("multiple of the two numbers" +multi);
     }
 }
